@@ -68,6 +68,9 @@ The dashboard is fully customizable. You can:
 - Add charts and widgets in the main content area
 - Customize colors in `tailwind.config.js`
 
+## Integrate Superset
+Check Superset Guide.md
+
 ## License
 
 MIT
